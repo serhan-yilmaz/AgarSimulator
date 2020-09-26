@@ -1,2 +1,2 @@
 # AgarSimulator
-A game/simulator inspired from [agar.io](http://agar.io). 
+A java-based game/simulator inspired from [agar.io](http://agar.io). 
